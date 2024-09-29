@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AnimalKingdom/AnimalKingdom.iml" filepath="$PROJECT_DIR$/AnimalKingdom/AnimalKingdom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Calculator/Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calculator 2.O/Calculator 2.O.iml" filepath="$PROJECT_DIR$/Calculator 2.O/Calculator 2.O.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Intellige.iml" filepath="$PROJECT_DIR$/.idea/Intellige.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyJavaProject/MyJavaProject.iml" filepath="$PROJECT_DIR$/MyJavaProject/MyJavaProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Node/Node.iml" filepath="$PROJECT_DIR$/Node/Node.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arraylist/arraylist.iml" filepath="$PROJECT_DIR$/arraylist/arraylist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ascending/ascending.iml" filepath="$PROJECT_DIR$/ascending/ascending.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linklist/linklist.iml" filepath="$PROJECT_DIR$/linklist/linklist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/treeSet/treeSet.iml" filepath="$PROJECT_DIR$/treeSet/treeSet.iml" />
+    </modules>
+  </component>
+</project>
